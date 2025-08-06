@@ -30,7 +30,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2 flex-shrink-0">
             <div className="w-10 h-10 bg-gradient-russian rounded-full flex items-center justify-center">
-              <span className="text-russian-white font-bold text-lg">РС</span>
+              <span className="text-russian-white font-bold text-lg">RS</span>
             </div>
             <span className="text-lg md:text-xl font-bold text-foreground">
               Russo <span className="text-primary">Simplificado</span>
